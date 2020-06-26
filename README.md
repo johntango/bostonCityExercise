@@ -8,3 +8,4 @@ Number of people working in Boston City earning over $200,000 is xxxx.
 You are given file index.html which you need to edit.
 
 You also need to use curl to get the Boston City data from https://pollysnips.s3.amazonaws.com/bostonEmployeeSalaries.json
+<img src='boston.png'>
